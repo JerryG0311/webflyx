@@ -8,3 +8,4 @@ echo "- Guilty Pleasures (so tell no one)
 - Shenanadoa" > guilty_pleasures.md
 
 
+#1: Fear is the mind-killer.
